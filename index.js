@@ -93,7 +93,7 @@ bot20.on('ready', async() => {
 
 bot.login(config.token)
 /*
-bo1.login(config.token1)
+bo11.login(config.token1)
 bot2.login(config.token2)
 bot3.login(config.token3)
 bot4.login(config.token4)
