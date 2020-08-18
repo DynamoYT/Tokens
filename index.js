@@ -28,67 +28,7 @@ const bot20 = new discord.Client()
 bot.on('ready', async() => {
     console.log('Bot 1 Ready')
 })
-/*bot1.on('ready', async() => {
-    console.log('Bot 2 Ready')
-})
-bot2.on('ready', async() => {
-    console.log('Bot 3 Ready')
-})
-bot3.on('ready', async() => {
-    console.log('Bot 4 Ready')
-})
-bot4.on('ready', async() => {
-    console.log('Bot 5 Ready')
-})
-bot5.on('ready', async() => {
-    console.log('Bot 6 Ready')
-})
-bot6.on('ready', async() => {
-    console.log('Bot 7 Ready')
-})
-bot7.on('ready', async() => {
-    console.log('Bot 8 Ready')
-})
-bot8.on('ready', async() => {
-    console.log('Bot 9 Ready')
-})
-bot9.on('ready', async() => {
-    console.log('Bot 10 Ready')
-})
-bot10.on('ready', async() => {
-    console.log('Bot 11 Ready')
-})
-bot11.on('ready', async() => {
-    console.log('Bot 12 Ready')
-})
-bot12.on('ready', async() => {
-    console.log('Bot 13 Ready')
-})
-bot13.on('ready', async() => {
-    console.log('Bot 14 Ready')
-})
-bot14.on('ready', async() => {
-    console.log('Bot 15 Ready')
-})
-bot15.on('ready', async() => {
-    console.log('Bot 16 Ready')
-})
-bot16.on('ready', async() => {
-    console.log('Bot 17 Ready')
-})
-bot17.on('ready', async() => {
-    console.log('Bot 18 Ready')
-})
-bot18.on('ready', async() => {
-    console.log('Bot 19 Ready')
-})
-bot19.on('ready', async() => {
-    console.log('Bot 20 Ready')
-})
-bot20.on('ready', async() => {
-    console.log('Bot 21 Ready')
-})
-*/
+
 
 
 bot.login(config.token)
